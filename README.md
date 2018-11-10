@@ -1,1 +1,1 @@
-#[Hostel Clinic Management System]
+Hostel Clinic Management System
