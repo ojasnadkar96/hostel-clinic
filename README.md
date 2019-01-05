@@ -1,1 +1,3 @@
-Hostel Clinic Management System
+# VJTI Hostel Clinic Management System
+
+
